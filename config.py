@@ -8,9 +8,17 @@ PIXSCALE = {
     'HST_WFC3': 'D002SCAL'
 }
 
+EXPTIME = {
+    'HST_WFC3': 'EXPTIME'
+}
+
 VEGA_ZEROPTS = {
     'F105W':25.4523,
     'F125W':25.1439
 }
 
+GAIN = {
+    'HST_WFC3': 'CCDGAIN'
+    #2.5
+}
 #test
